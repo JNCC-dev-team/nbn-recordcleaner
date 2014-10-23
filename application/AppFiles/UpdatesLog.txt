@@ -1,0 +1,106 @@
+NBNRecordCleaner Updates.
+
+20140603
+ - Updated masterspecieslist
+
+20130531 1.0.8.5
+ - Fixed issue with exporting passed records including duplicated records
+
+20130409
+ - Updated masterspecieslist
+
+20130213 1.0.8.4
+ - Fixed issue with temporal rules causing error message
+ - Fixed issue with exporting passed records including untested records
+
+20121019 1.0.83
+ - New support for 5km grid references
+ - Extension of spatial rule to support 5km and 2km rules
+ - Improvements to save results form
+ - Number of minor changes to interface
+ - Update to user and rule guides
+ - Fixed use of vice-counties within spatial rules
+ - Fixed incorrect dates applied to temporal rules
+ - Fixed exporting records passed verification crashed on testing against more than 500 rules
+
+20120503
+ - Updated masterspecieslist
+
+20120215 1.0.70
+ - Fixed checking against additional NBN Exchange Format validation rules
+ - Message bar at bottom of verification screen indicates running of verification rules
+
+20111209 1.0.69
+****ConnectionSettings.xml.new file**** downloaded in NBNRecordCleaner Folder
+This update contains a new query to use for MapMate. Replace the old ConnectionSettings.xml file found in the UserSettings folder with this file, renamed to ConnectionSettings.xml. Any customised changes you have made to the ConnectionSettings.xml file will need to be added back into this updated file.
+
+ - Increased timeout period when connecting to Recorder
+ - Fixed issues around display, export and revalidation of dates in data cleansing form
+ - Fixed disabling of species matching function on right clicking data cleansing form
+ - Fixed incorrect export of non unique scientific names following validation
+ - Fixed issues generating errors during running of verification rules
+ - Fixed index out of range errors generated on clicking on verification screen
+ - Fixed issues around deselecting records following selection from map
+ - Passed verification records now only export records that have undergone verification tests
+ - Fields now populated in selection box in the save tab window when importing from Recorder or MapMate
+
+20110511
+ - Fix installation to install on 64x bit machines
+
+20110506
+ - Update masterspecieslist
+ - Add blank catalgues database
+ - Correct directory for Windows XP
+
+20110506
+ - Fix for records not selected on map
+ - Fix for directory structure for installation on Vista and Windows 7
+ - Update of documentation
+
+20110227 1.0.65
+ - Fix for map not resizing properly on form resize
+
+20110121 1.0.64
+ - Fix allowing vague dates to be fixed if they have failed validation
+ - Fix for itermiitent verification test failure on subsequent runs
+
+20110120 1.0.63
+ - Fixed bug with shrunk mapping introduced at last release
+ - Fixed bug where 2nd run with VC spatial check could crash
+ - Fixed crash where verification export failed if no tests selected
+ - Fixed issue correcting species names where wrong name could be corrected if row was changed mid fix
+
+20110118 1.0.62
+ - Fixed bug on editing species names introduced at last release
+
+20110114 1.0.61
+ - Allowed global changes of species name when sorted on species name column
+ - Improved handling of vague dates that are just years in Excel spreadsheet
+ - Fixed and issue where certain vague dates passed validation despite being in the future
+
+20110112 1.0.60
+ - Fixed an issue where software update failed if TempUpdateLog.xml already existed
+
+20110107 1.0.59
+ - Allow vague dates to be in the future
+ - Make species name checks non case sesnitive
+ - Allowed global changes of species name when sorted on species name column
+
+20101103 1.0.58
+ - Release version
+
+20101027 1.0.57
+ - Update to master species dictionary
+ - Fixed an issue with autoupdate (which was failing)
+
+20101026 1.0.56
+ - Sorted out buffer for very large rule file downloads
+ - All rules that are downloaded are now automatically included
+
+20101019 1.0.55
+ - Added tooltip for identification difficulty
+ - Changed colour on Recorder survey selection form
+ - Resized Id diff column
+
+20101013 1.0.54
+ - Changed colours on screens to be consistent
