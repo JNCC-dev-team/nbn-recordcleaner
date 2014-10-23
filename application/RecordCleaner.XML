@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<updates patchnumber="20140603">
+<updates patchnumber="20141023">
   <file name="UpdatesLog">
     <server>AppFiles/UpdatesLog.txt</server>
     <local>UpdatesLog.txt</local>
