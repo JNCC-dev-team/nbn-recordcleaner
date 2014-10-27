@@ -1,0 +1,2 @@
+http://data.nbn.org.uk/recordcleaner/rules/PMRS/PMRS_IDifficulty.zip#Plume Moth ID Difficulty#27/10/2014
+http://data.nbn.org.uk/recordcleaner/rules/PMRS/PMRS Moth Rules.zip#Plume Moth range, recording and seasonal periods, and additional rules#27/10/2014
