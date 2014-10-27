@@ -1,0 +1,2 @@
+http://data.nbn.org.uk/recordcleaner/rules/GRS/GRS_IDifficulty.zip#Gelechiidae Moth ID Difficulty#27/10/2014
+http://data.nbn.org.uk/recordcleaner/rules/GRS/GRS Moth Rules.zip#Gelechiidae Moth range, recording and seasonal periods, and additional rules#27/10/2014
