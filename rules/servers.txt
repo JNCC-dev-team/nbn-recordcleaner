@@ -22,3 +22,4 @@ http://data.nbn.org.uk/recordcleaner/rules/TRS/index.txt#Trichoptera Recording S
 http://data.nbn.org.uk/recordcleaner/rules/PRS/index.txt#Plecoptera Recording Scheme#07/08/2013
 http://data.nbn.org.uk/recordcleaner/rules/AHRS/index.txt#Aquatic Heteroptera Recording Scheme#27/10/2014
 http://data.nbn.org.uk/recordcleaner/rules/GRS/index.txt#Gelechiid Recording Scheme#27/10/2014
+http://data.nbn.org.uk/recordcleaner/rules/PMRS/index.txt#Plume Moth Recording Scheme#27/10/2014
