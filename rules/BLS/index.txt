@@ -1,0 +1,2 @@
+http://data.nbn.org.uk/recordcleaner/rules/BLS/BLS IDifficulty.zip#Lichen ID Difficulty#05/11/2014
+http://data.nbn.org.uk/recordcleaner/rules/BLS/BLS Lichen Rules.zip#Lichen range rules#05/11/2014
