@@ -1,2 +1,2 @@
-http://data.nbn.org.uk/recordcleaner/rules/BPS/BPS_IDifficulty.zip#Seaweed ID Difficulty#28/10/2014
+http://data.nbn.org.uk/recordcleaner/rules/BPS/BPS_IDifficulty.zip#Seaweed ID Difficulty#07/11/2014
 http://data.nbn.org.uk/recordcleaner/rules/BPS/BPS Seaweed Rules.zip#Seaweed range, seasonal and additional rules#28/10/2014
