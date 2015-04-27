@@ -1,0 +1,2 @@
+http://data.nbn.org.uk/recordcleaner/rules/DF/Chloropidae_IDifficulty.zip#Chloropidae ID difficulty#27/04/2015
+http://data.nbn.org.uk/recordcleaner/rules/DF/Chloropidae Rules.zip#Chloropidae (Diptera) range, recording and flight periods, and additional rules#27/04/2015
