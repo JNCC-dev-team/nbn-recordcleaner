@@ -26,3 +26,4 @@ http://data.nbn.org.uk/recordcleaner/rules/GRS/index.txt#Gelechiid Recording Sch
 http://data.nbn.org.uk/recordcleaner/rules/PMRS/index.txt#Plume Moth Recording Scheme#07/11/2014
 http://data.nbn.org.uk/recordcleaner/rules/BPS/index.txt#British Phycological Society#07/11/2014
 http://data.nbn.org.uk/recordcleaner/rules/BLS/index.txt#British Lichen Society#07/11/2014
+http://data.nbn.org.uk/recordcleaner/rules/CIG/index.txt#Cladocera Interest Group#25/07/2016

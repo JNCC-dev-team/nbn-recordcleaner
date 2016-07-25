@@ -1,0 +1,2 @@
+http://data.nbn.org.uk/recordcleaner/rules/CIG/Daphnia_IDifficulty.zip#Daphnia ID Difficulty#25/07/2016
+http://data.nbn.org.uk/recordcleaner/rules/CIG/Cladocera_IDifficulty.zip#Cladocera ID Difficulty#25/07/2016
