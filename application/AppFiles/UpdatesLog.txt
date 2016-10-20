@@ -1,5 +1,8 @@
 NBNRecordCleaner Updates.
 
+20161026
+ - Updated masterspecieslist
+
 20151216
  - Updated masterspecieslist
   
